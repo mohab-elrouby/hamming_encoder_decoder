@@ -1,0 +1,71 @@
+C:/Modeltech_pe_edu_10.4a/examples/hamming_decoder.v {1 {vlog -work work -stats=none C:/Modeltech_pe_edu_10.4a/examples/hamming_decoder.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module hamming_decoder
+
+Top level modules:
+	hamming_decoder
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/examples/full_system.v {1 {vlog -work work -stats=none C:/Modeltech_pe_edu_10.4a/examples/full_system.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module full_system
+
+Top level modules:
+	full_system
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/examples/tb_decoder.v {1 {vlog -work work -stats=none C:/Modeltech_pe_edu_10.4a/examples/tb_decoder.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module tb_decoder
+
+Top level modules:
+	tb_decoder
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/examples/piso_register.v {1 {vlog -work work -stats=none C:/Modeltech_pe_edu_10.4a/examples/piso_register.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Shiftregister_PISO
+
+Top level modules:
+	Shiftregister_PISO
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/examples/sipo_register.v {1 {vlog -work work -stats=none C:/Modeltech_pe_edu_10.4a/examples/sipo_register.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module ShiftRegister_SIPO
+
+Top level modules:
+	ShiftRegister_SIPO
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/examples/tb_full_system.v {1 {vlog -work work -stats=none C:/Modeltech_pe_edu_10.4a/examples/tb_full_system.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module tb_full_system
+
+Top level modules:
+	tb_full_system
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/examples/tb_piso.v {1 {vlog -work work -stats=none C:/Modeltech_pe_edu_10.4a/examples/tb_piso.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module tb_piso
+
+Top level modules:
+	tb_piso
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/examples/tb_sipo.v {1 {vlog -work work -stats=none C:/Modeltech_pe_edu_10.4a/examples/tb_sipo.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module tb_sipo
+
+Top level modules:
+	tb_sipo
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/examples/hamming_encoder.v {1 {vlog -work work -stats=none C:/Modeltech_pe_edu_10.4a/examples/hamming_encoder.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module hamming_encoder
+
+Top level modules:
+	hamming_encoder
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/examples/tb_encoder.v {1 {vlog -work work -stats=none C:/Modeltech_pe_edu_10.4a/examples/tb_encoder.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module tb_encoder
+
+Top level modules:
+	tb_encoder
+
+} {} {}}
